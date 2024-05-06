@@ -1,14 +1,5 @@
 {
-  name: "Dummy Project",
-  description: "This is a dummy project for testing purposes.",
-  repositories: [
-    {
-      name: "Dummy Repository 1",
-      url: "https://github.com/dummyuser/dummy-repo1",
-    },
-    {
-      name: "Dummy Repository 2",
-      url: "https://github.com/dummyuser/dummy-repo2",
-    },
-  ],
+  "opRetro": {
+    "projectId": "rjX8KTynkP_fosvo1MVHi"
+  }
 }
